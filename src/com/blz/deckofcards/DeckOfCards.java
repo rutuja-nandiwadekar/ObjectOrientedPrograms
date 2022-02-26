@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.blz.deckofcards;
 
 import java.util.Random;
 
